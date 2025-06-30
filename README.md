@@ -96,12 +96,5 @@ VITE_ECPAY_URL=你的ECPay服務URL
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-## 授權
 
-本專案採用 MIT 授權條款 - 詳見 [LICENSE](LICENSE) 文件。
-
-## 聯繫方式
-
-如有任何問題或建議，請透過以下方式聯繫我們：
-
-- 後端專案連結：https://github.com/sa585951/PetService_Project_Api
+- 後端專案連結：https://github.com/Puly1203/PetService_Project_Api

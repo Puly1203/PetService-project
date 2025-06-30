@@ -41,7 +41,7 @@ PetService 是一個現代化的寵物服務平台，提供寵物旅館預訂與
 1. 克隆專案
 
    ```bash
-   git clone https://github.com/sa585951/PetService-project.git
+   git clone https://github.com/Puly1203/PetService-project.git
    cd PetService-project
    ```
 
